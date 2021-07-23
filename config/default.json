@@ -1,7 +1,5 @@
 {
   "serverPort": "3002",
-  "dbUrl": "mongodb+srv://flubermax:322hardPASS81@cluster0.3sc58.mongodb.net/bulletin-board?retryWrites=true&w=majority",
-  "secretKey": "web-full-key",
   "advertPath": "D:\\react-things\\bulletin-board\\server\\adverts",
   "staticPath": "D:\\react-things\\bulletin-board\\server\\static"
 }
